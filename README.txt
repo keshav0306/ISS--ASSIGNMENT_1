@@ -1,9 +1,3 @@
-LINK FOR GIT REPO:
-
-https://github.com/keshav0306/ISS_ASS_1.git
-
-
-
 For Q1:
 a) RUN AS: ./q1.sh: It will give the output file with both a) and b) part implemented. It take the input directly from quotes.txt file.
 
